@@ -4,7 +4,7 @@
    ÖNEMLİ: Bu dosya herkese açık bir sitede durduğu için anahtar görülebilir.
    Anahtarı Google tarafında sadece kendi site adresine izin verecek şekilde kısıtla (README'ye bak). */
 window.NEXUS_CONFIG={
-  GEMINI_KEY:"AQ.Ab8RN6IM0Ii02CtE1YCAcy-_yGD2Ol1tMa0qxpbATs5pNAMGww",   // örnek: "AIza..."
+  GEMINI_KEY:"AQ.Ab8RN6L9NWqw7sheqLoeebd2B3VaElNyrBaOJSYoL3A3qf6vqA",   // örnek: "AIza..."
   MODEL:"",        // boş bırak; otomatik dener. İstersen model adı yaz.
   API_URL:""       // kendi sunucun varsa (anahtar sunucuda saklanır)
 };
